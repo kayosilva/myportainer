@@ -13,3 +13,5 @@ services:
 
 volumes:
   portainer_data:
+
+#senha: admin@123456
